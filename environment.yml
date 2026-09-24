@@ -1,0 +1,11 @@
+name: tda
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - ipykernel
+  - scikit-learn
+  - jupyter
+  - numpy
+  - matplotlib
+  - scipy

@@ -1,0 +1,3 @@
+ripser==0.6.15
+persim==0.3.8
+gudhi==3.13.0
